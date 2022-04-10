@@ -8,10 +8,7 @@
 <p align="left">
  <a href="https://twitter.com/murytarlah"><img width="26px" alt="Twitter" title="Twitter" src="./bxl_twitter.svg"/>
  </a>
-
   <a href="https://linkedin.com/in/murytarlah" alt="LinkedIn"><img width="26px" src="./linkedin.svg"/></a>
-  
-  </a>
 </p>
 
 <br/>
