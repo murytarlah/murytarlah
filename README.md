@@ -1,4 +1,4 @@
-<img width="128px" src="https://avatars.githubusercontent.com/u/30055306?v=4" alt="MyPic"> 
+<img width="250px" src="https://avatars.githubusercontent.com/u/30055306?v=4" alt="MyPic"> 
 
 ## Okairee...... 👋🌻
 
@@ -25,7 +25,7 @@
 
 
 ## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=murytarlah&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murytarlah&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
  
 Ganbate!! <br>
