@@ -6,10 +6,10 @@
 
 <!-- Social icons section -->
 <p align="left">
- <a href="https://twitter.com/murytarlah"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/murytarlah" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://twitter.com/murytarlah"><img width="26px" alt="Twitter" title="Twitter" src="./bxl_twitter.svg"/>
+ </a>
+
+  <a href="https://linkedin.com/in/murytarlah" alt="LinkedIn"><img width="26px" src="./linkedin.svg"/></a>
   
   </a>
 </p>
@@ -21,11 +21,12 @@
 <p>
     - Programming Language: Python, Javascript, C, Shell <br>
     - Framework: React, Flask <br>
+    - Design Tool: Figma  <br>
     - Great communication skills <br>
 
 
 ## 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murytarlah&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murytarlah&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
  
 Ganbate!! <br>
