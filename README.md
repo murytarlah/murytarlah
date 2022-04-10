@@ -1,4 +1,4 @@
-<img width="128px" src=https://avatars.githubusercontent.com/u/30055306?v=4 alt="MyPic"> 
+<img width="128px" src="https://avatars.githubusercontent.com/u/30055306?v=4" alt="MyPic"> 
 
 ## Okairee...... 👋🌻
 
